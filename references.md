@@ -1,5 +1,5 @@
 # References
 
-- Octocat 1 😈 — Master of merge conflicts  
+- Octocat 1 😈 
 
 
